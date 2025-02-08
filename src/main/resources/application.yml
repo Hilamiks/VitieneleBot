@@ -1,0 +1,10 @@
+token: ''
+username: ''
+
+telegram:
+  bot:
+    token: ${token}
+    username: ${username}
+spring:
+  application:
+    name: VitieneleBot
